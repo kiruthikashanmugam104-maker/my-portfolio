@@ -60,7 +60,7 @@ The main goal of this project was to learn the fundamentals of frontend web deve
 ## 📬 Connect With Me
 
 - GitHub: https://github.com/kiruthikashanmugam104-maker
-- LinkedIn: [Add your LinkedIn profile link]
+- LinkedIn: linkedin.com/in/kiruthika-shanmugam-74924b3a1
 
 ---
 
